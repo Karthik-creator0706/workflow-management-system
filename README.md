@@ -1,4 +1,4 @@
-# Workflow Management System UI
+# Workflow Management System
 
 ## Live Demo
 Frontend (Versel): https://workflow-management-ui-six.vercel.app/
